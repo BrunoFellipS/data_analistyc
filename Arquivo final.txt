@@ -1,0 +1,176 @@
+Segunda Via
+Segunda Via
+Segunda Via
+Celesc Distribuicao S.A
+Av Itamarati, 160 -  - Florianopolis
+CNPJ: 08.336.783/0001-90 Insc.Est.: 255266626
+Conta de
+Energia El&#xe9;trica
+EMISS&#xc3;O: 24/08/2020 APRES.: 26/08/2020 NOTA FISCAL/CONTA DE ENERGIA EL&#xc9;TRICA - S&#xc9;RIE &#xda;NICA:
+000.042.607.811 - FAT-01-20206222157187-71
+REF.: 08/2020
+.............................................................................................................................................................................................................
+4VISION TECH - CONSULTORIA E DESENVOLVIMENTO DE TECNOLOGIAS LTDA
+CPJ 15.806.911/0001-88
+R LAURO LINHARES, 2010
+TORRE A SL 403 - TRINDADE - FNS - FLORIANOPOLIS - SC - 88036-002
+Classifica&#xe7;&#xe3;o: COMERCIAL, SERVICOS, OUTRAS ATIVIDADES / CONVENCIONAL / MONOFASICO
+Tens&#xe3;o nominal ou contratada (V): 220 / 380
+Limites adequados de tens&#xe3;o (V):
+202 a 231
+Grupo de Tens&#xe3;o:
+B
+Tipo de Tarifa: Convencional
+DADOS DA MEDI&#xc7;&#xc3;O
+Equipamento:
+RG 2905779
+Unidade de medida:
+kWh
+Origem da leitura atual:
+MEDIA
+Data da leitura anterior:
+22/07/2020
+Data da leitura atual:
+20/08/2020
+Data da pr&#xf3;xima leitura:
+22/09/2020
+N&#xfa;mero de dias faturados:
+29
+Leitura atual:
+14162
+Leitura anterior:
+14050
+Constante de faturamento:
+1,00
+Consumo medido no m&#xea;s:
+112
+Consumo faturado no m&#xea;s:
+112
+Fator de pot&#xea;ncia:
+HIST&#xd3;RICO DE CONSUMO DE ENERGIA EL&#xc9;TRICA - kWh
+Ago/2019
+0
+Set/2019
+0
+Out/2019
+0
+Nov/2019
+0
+Dez/2019
+30
+Jan/2020
+30
+Fev/2020
+152
+Mar/2020
+130
+Abr/2020
+130
+Mai/2020
+94
+Jun/2020
+112
+Jul/2020
+112
+N&#xba; DA UNIDADE
+CONSUMIDORA
+54130988
+VENCIMENTO
+15/09/2020
+ATENDIMENTO AO CLIENTE
+LIGUE
+0800 048 0120
+CONSUMO TOTAL FATURADO
+112 kWh
+VALOR AT&#xc9; O VENCIMENTO
+R$ 93,05
+Mensagens:
+Dados do Faturamento
+Faturado
+Tarifa (R$)
+Valor (R$)
+Subtotal (R$)
+Lan&#xe7;amentos e Servi&#xe7;os
+Subtotal (R$)
+Consumo
+Cosip
+112
+0,670982
+75,15
+17,90
+75,15
+17,90
+Composi&#xe7;&#xe3;o do Pre&#xe7;o em R$ (Art. 31, Res. 166/05):
+DISTRIBUICAO
+10,70
+ENC. SETORIAIS
+5,21
+ENERGIA
+33,46
+TRANSMISSAO
+3,24
+TRIBUTOS
+22,54
+Soma Demonstr.
+75,15
+INCIDIR&#xc3;O SOBRE A CONTA PAGA AP&#xd3;S O VENCIMENTO MULTA DE 2%, JUROS DE
+MORA DE 0,0333% AO DIA (CONF. LEI 10.438/02) E ATUALIZA&#xc7;&#xc3;O MONET&#xc1;RIA COM
+BASE NO IGP-M A SEREM INCLU&#xcd;DOS NA PR&#xd3;XIMA CONTA.
+INFORMA&#xc7;&#xc3;O DE TRIBUTOS
+TRIBUTOS
+BASE DE C&#xc1;LCULO
+AL&#xcd;QUOTA
+VALOR DO IMPOSTO
+ICMS
+COFINS
+PIS/PASEP
+R$
+R$
+R$
+R$
+R$
+R$
+75,15
+25,00%
+18,78
+75,15
+%
+4,11%
+%
+3,09
+75,15
+%
+0,89%
+0,67
+RESERVADO AO FISCO
+PER&#xcd;ODO FISCAL:
+24/08/2020
+4D61.3C32.7464.C4D2.D0D4.4E41.D29E.EC00
+Celesc Distribuicao S.A
+Av Itamarati, 160 -  - Florianopolis
+CNPJ: 08.336.783/0001-90 Insc.Est.: 255266626
+EMPRESA
+CEDENTE
+SACADO
+ETAPA/LIVRO
+VENCIMENTO
+DATA DOCUMENTO
+N&#xda;MERO REFER&#xca;NCIA
+DATA PROCESSAMENTO
+UNIDADE CONSUMIDORA
+REFER&#xca;NCIA
+VALOR COBRADO (R$)
+CELESC AD CENTRAL
+4VISION TECH - CONSULTORIA E DESENVOLVIMENTO DE TECNOLOGIAS LTDA
+14/000480
+15/09/2020
+24/08/2020
+FAT-01-20206222157187-71
+24/08/2020
+54130988
+08/2020
+93,05
+N&#xc3;O RECEBER - FATURA ARRECADADA
+GBCELESC2 (V1.01)
+
+Arquivo escrito por Bruno Fellip para a empresa 4Docs
